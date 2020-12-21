@@ -1,0 +1,19 @@
+Keras- Neural networ API written in python and integrated with tensorflow
+Fine tune state of the art model according to our needs
+
+Why Keras - Keras was built to enable fast user experimentation so its easy to go from idea to implementation in very few steps
+
+Also if you have the fundamental understanding of underlying concepts then the miners and tacticals and implementaion diferences between different APIs shouldn't really be that hard to catch on.
+
+DATA PROCESSING-> 
+
+Data should be in the format which neural network is able to accept
+
+the NN receives the data whenever we call the fit function on model
+
+x=input data should be a numpy array or a dict mapping input names to corresponding tensors
+y=target data should be in a same fashion as input data
+
+Keras Tutorial notebook
+
+CNN starts from Image Preparation for CNN
