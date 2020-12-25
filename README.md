@@ -1,10 +1,10 @@
 # Web-Application-to-Consume-Deep-Learning-Model
 Problem statement
 
-This International Dance Day, an event management company organized an evening of Indian classical dance performances to celebrate the rich, eloquent, and elegant art of dance. Post the event, the company planned to create a microsite to promote and raise awareness among the public about these dance forms. However, identifying them from images is a tough nut to crack.
+Given a dataset of images of cats and dogs, Build an image tagging Deep Learning model that can help classify these images into two categories of Cats and Dogs.
 
-You have been appointed as a Machine Learning Engineer for this project. Build an image tagging Deep Learning model that can help the company classify these images into eight categories of Indian classical dance.
+Also build a web application to consume the model so that the user can select any image and get the predictions to which category the image belongs to
 
 Dataset
 
-The dataset consists of 364 images belonging to 8 categories, namely manipuri, bharatanatyam, odissi, kathakali, kathak, sattriya, kuchipudi, and mohiniyattam.
+The dataset consists of 500 images belonging to 2 categories, namely Cat and Dog
